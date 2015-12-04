@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 int main()
-{
+{//RUNNING TIME BIG-O(lenb);
     char *b = "abcdefghijklmnopqrstuvwxyz";
     char *a = "abcemnpqz";
     int i=0, j = 0;
