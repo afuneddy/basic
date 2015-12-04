@@ -20,7 +20,7 @@ int main()
                printf("No\n");
                return 0;
              }
-            if(a[i]==b[j++])
+            if(X[i]==Y[j++])
                not = 0;
        }
    
