@@ -1,6 +1,5 @@
 # basic
 
-Source: Dr. Rafiey - Indiana State University
 
 Problem:
 Give an O(n+m) time algorithm deciding whether a sequence X = x1 . . . xn
