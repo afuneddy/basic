@@ -2,12 +2,12 @@
 #include <string.h>
 #include <stdlib.h>
 int main()
-{//RUNNING TIME BIG-O(lenb);
-    char *b = "abcdefghijklmnopqrstuvwxyz";
-    char *a = "abcemnpqz";
+{//RUNNING TIME BIG-O(lenth of Y);
+    char *Y = "abcdefghijklmnopqrstuvwxyz";
+    char *X = "abcemnpqz";
     int i=0, j = 0;
-    int lena =  strlen(a);
-    int lenb = strlen(b);
+    int lena =  strlen(X);
+    int lenb = strlen(Y);
     
     if(lena>lenb){
          printf("No\n");
